@@ -1,0 +1,93 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_755F5E15_4B08_AA9F_41B8_1E9BF4DB317B.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_7F605616_4B08_9A9D_41C6_842E348D4C51.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_39A7079C_2154_1531_41BC_1F0F465F40DD.source = https://rainearchitects.com/
+LinkBehaviour_755F7E16_4B08_AA9D_41B4_7EF426B944EE.source = https://rainearchitects.com/
+LinkBehaviour_755FCE17_4B08_AA9B_41C2_693D9047C95F.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_36C510BF_2154_0B70_41A0_D0D8A0C999D7.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_755FFE16_4B08_AA9D_41CB_827691BEF599.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_37445796_2154_1531_41A5_F45AC7537A7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_369CB194_2154_0D31_41A3_E910064E897F.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_755FBE16_4B08_AA9D_41BE_661D5E8942C3.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_346B5BEE_21D4_1D10_41B3_4190957F310B.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_755FAE15_4B08_AA9F_41D0_0C4BBA83EF19.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Audio
+audiores_21CAE1C4_3B20_D1A6_41A3_7B2B64464CB7.mp3Url = media/audio_34C7A687_3AE0_B3A2_41B5_B7068166E42D_es.mp3
+
+### Floorplan
+
+### Imágen
+imlevel_0D3F59CE_4B09_698D_41B2_A9D857DE05AB.url = media/map_2C8AC11B_3AE0_6EA3_4197_B38D05035DA2_es_0.webp
+imlevel_0D3F49CE_4B09_698D_4163_BE8362484029.url = media/map_2C8AC11B_3AE0_6EA3_4197_B38D05035DA2_es_1.webp
+imlevel_0D3F59CF_4B09_698B_41B9_4678908FC2FB.url = media/map_2C8AC11B_3AE0_6EA3_4197_B38D05035DA2_es_2.webp
+imlevel_0D3A3A42_4B09_6AF5_41C4_0D0F2995560B.url = media/map_7A476AE1_4B08_ABB7_41CC_4F5D46869720_es_0.webp
+imlevel_0D3A2A42_4B09_6AF5_41AD_360120149FB6.url = media/map_7A476AE1_4B08_ABB7_41CC_4F5D46869720_es_1.webp
+imlevel_0D3A3A43_4B09_6AFB_41BA_A2F33EC1D9CC.url = media/map_7A476AE1_4B08_ABB7_41CC_4F5D46869720_es_2.webp
+imlevel_0CC94BB2_4B09_6995_41AB_5F0A4C977433.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_0.jpg
+imlevel_0CC94BB2_4B09_6995_41AB_5F0A4C977433.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_0.jpg
+imlevel_0CC93BB2_4B09_6995_41B8_6648E5748F85.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_1.jpg
+imlevel_0CC93BB2_4B09_6995_41B8_6648E5748F85.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_1.jpg
+imlevel_0CC91BB2_4B09_6995_41B7_59019357CF64.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_2.jpg
+imlevel_0CC91BB2_4B09_6995_41B7_59019357CF64.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_2.jpg
+imlevel_0CC90BB2_4B09_6995_41D2_466C75BA4FB2.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_3.jpg
+imlevel_0CC90BB2_4B09_6995_41D2_466C75BA4FB2.url = media/zoomImage_7559DE14_4B08_AA9D_41C9_1D6C75FDFEE3_es_0_3.jpg
+
+### Popup Imágen
+
+### Subtítulos de Audio
+
+### Título
+panorama_64852B62_4B0B_6AB5_41C9_B378E5242A4E.label = Building A Front
+panorama_6393227F_4B08_9A8B_41B1_0819C138083E.label = Building A Front
+panorama_6CBB70B3_4B08_979B_41BA_EDE3562312CC.label = Building A Side
+panorama_671B1294_4B0B_7B9D_4171_0DA4B093F5D6.label = Building A Side
+panorama_624416EB_4B0B_9B8B_41CD_32479527A2FE.label = Building B Front
+panorama_67088A64_4B0B_6ABD_41B9_98F93735910C.label = Building B Front
+panorama_67051393_4B08_999B_41A5_FDEAA76F38C1.label = Building B Side
+panorama_60D4F3EA_4B0B_F9B5_41CF_46A8971772FA.label = Building B Side
+map_2C8AC11B_3AE0_6EA3_4197_B38D05035DA2.label = Floorplan Concept 1
+map_7A476AE1_4B08_ABB7_41CC_4F5D46869720.label = Floorplan Concept 2
+photo_782E2A7D_4B18_AA8F_41A0_0347735143C9.label = Hero A1
+photo_782E2A7D_4B18_AA8F_41A0_0347735143C9.label = Hero A1
+photo_655D7BAE_4B18_A98D_41B3_DC3965A18892.label = Hero A2
+photo_655D7BAE_4B18_A98D_41B3_DC3965A18892.label = Hero A2
+photo_6574ED40_4B18_AEF5_41A7_8C718D11C742.label = Hero B1
+photo_6574ED40_4B18_AEF5_41A7_8C718D11C742.label = Hero B1
+photo_65749EB6_4B18_AB9D_41D1_CE139CED3685.label = Hero B2
+photo_65749EB6_4B18_AB9D_41D1_CE139CED3685.label = Hero B2
+album_2D20456D_3AE7_F166_41B0_E0A1373B6632.label = Image Gallery
+panorama_369E5AF3_3AE0_5362_41BB_9D0465120BBB.label = Portada
+
+## Skin
+
+### Imágen
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_es.png
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_es.jpg
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile_es.jpg
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Vega Commercial Plaza
