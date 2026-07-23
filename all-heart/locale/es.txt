@@ -1,0 +1,79 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_3299740F_21DC_0B10_41C0_67DDAC0EC1D4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_9065E62A_8FF2_0182_4176_E2FD5E035AB4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_906B362B_8FF2_0182_41D2_B8AE289698B2.source = https://rainearchitects.com/
+LinkBehaviour_39A7079C_2154_1531_41BC_1F0F465F40DD.source = https://rainearchitects.com/
+LinkBehaviour_906B862E_8FF2_0182_41E0_00AF03B48060.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_36C510BF_2154_0B70_41A0_D0D8A0C999D7.source = https://www.facebook.com/profile.php?id=61585234204838
+PopupWebFrameBehaviour_12DFDDB7_23AC_357F_4184_D3C748A90A87.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d959.996604684003!2d-98.2790070030011!3d26.248617091857753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8665a642537176ab%3A0x2230d15237f7e9e2!2s3902%20N%20Shary%20Rd%2C%20Palmhurst%2C%20TX%2078573%2C%20USA!5e1!3m2!1sen!2sni!4v1783973727914!5m2!1sen!2sni
+PopupWebFrameBehaviour_90650628_8FF2_018E_41C1_5926AABA269C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d959.996604684003!2d-98.2790070030011!3d26.248617091857753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8665a642537176ab%3A0x2230d15237f7e9e2!2s3902%20N%20Shary%20Rd%2C%20Palmhurst%2C%20TX%2078573%2C%20USA!5e1!3m2!1sen!2sni!4v1783973727914!5m2!1sen!2sni
+LinkBehaviour_906FE62D_8FF2_0186_41D0_88EDC781B64B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_37445796_2154_1531_41A5_F45AC7537A7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_9069962C_8FF2_0186_41E1_DE38C9D771A2.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_369CB194_2154_0D31_41A3_E910064E897F.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_346B5BEE_21D4_1D10_41B3_4190957F310B.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_906A262A_8FF2_0182_41C8_CDA4CF521734.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Floorplan
+
+### Imágen
+imlevel_AF4C944A_8FF2_0182_41D5_CD0BC77A377F.url = media/map_46BD8554_5DF4_1327_41C6_53A1956FBB5E_es_0.webp
+imlevel_AF4C644B_8FF2_0182_41CB_04EA1DCFE9C9.url = media/map_46BD8554_5DF4_1327_41C6_53A1956FBB5E_es_1.webp
+imlevel_AF4C744B_8FF2_0182_41DB_2A565AB5FD35.url = media/map_46BD8554_5DF4_1327_41C6_53A1956FBB5E_es_2.webp
+imlevel_AF4C244B_8FF2_0182_41B4_8B79D78400BF.url = media/map_46BD8554_5DF4_1327_41C6_53A1956FBB5E_es_3.webp
+
+### Título
+panorama_8289894A_8F92_0382_41E1_01281022BBEA.label = Auditorium
+map_46BD8554_5DF4_1327_41C6_53A1956FBB5E.label = Floorplan F
+panorama_82CA91D5_8F92_0286_41D3_5D48D09FDBCE.label = Front Corner Elevation
+panorama_82C2A7EF_8F92_0E81_4163_3072B5F966BE.label = Front Elevation
+album_520F467E_5D34_11E2_41CA_770090BC4DE4.label = Image Album
+panorama_8285A875_8F92_0186_41D1_BF757D82B33F.label = Lobby
+panorama_51928A71_5D14_0F4B_41D4_515333C1F897.label = Portada
+panorama_828A6C86_8F92_0283_41CC_0B0471019B05.label = Rear Corner Elevation
+panorama_82847E62_8F92_0182_41DD_FFE83657E14C.label = Side Elevation
+photo_97CBFA98_8F96_068E_41E1_0D1E38C5BA31.label = ext1
+photo_97CBFA98_8F96_068E_41E1_0D1E38C5BA31.label = ext1
+photo_9800FCAB_8F96_0282_41DD_D3ACFE5D8694.label = ext2
+photo_9800FCAB_8F96_0282_41DD_D3ACFE5D8694.label = ext2
+photo_98018DFA_8F96_0282_41DA_DF8D982E951B.label = ext3
+photo_98018DFA_8F96_0282_41DA_DF8D982E951B.label = ext3
+photo_9801EF49_8F96_1F8E_41E1_2F417AC27859.label = ext4
+photo_9801EF49_8F96_1F8E_41E1_2F417AC27859.label = ext4
+photo_9801A0A3_8F96_0282_4185_137155A4BA19.label = int1
+photo_9801A0A3_8F96_0282_4185_137155A4BA19.label = int1
+photo_9801F207_8F96_0182_41D1_6E836030288F.label = int2
+photo_9801F207_8F96_0182_41D1_6E836030288F.label = int2
+
+## Skin
+
+### Imágen
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_es.png
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_es.jpg
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile_es.jpg
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = All Heart Church
