@@ -1,0 +1,89 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_7350E21B_1C52_383D_41B2_A05296B1CEC4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_3299740F_21DC_0B10_41C0_67DDAC0EC1D4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_39A7079C_2154_1531_41BC_1F0F465F40DD.source = https://rainearchitects.com/
+LinkBehaviour_7350521C_1C52_383B_41A2_0E341FC0722B.source = https://rainearchitects.com/
+LinkBehaviour_36C510BF_2154_0B70_41A0_D0D8A0C999D7.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_7357B21F_1C52_3835_41B0_1E1F15A85562.source = https://www.facebook.com/profile.php?id=61585234204838
+PopupWebFrameBehaviour_73536211_1C52_380D_41B3_CB2234213D93.url = https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.876251364208!2d-97.67828116245747!3d26.20753948110117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spendleton%20park%20texas!5e1!3m2!1sen!2sni!4v1787178270621!5m2!1sen!2sni
+PopupWebFrameBehaviour_414B0370_1C3E_580B_41AE_6A2C56709307.url = https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.876251364208!2d-97.67828116245747!3d26.20753948110117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spendleton%20park%20texas!5e1!3m2!1sen!2sni!4v1787178270621!5m2!1sen!2sni
+LinkBehaviour_37445796_2154_1531_41A5_F45AC7537A7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_7350721E_1C52_3837_41A1_94A631CF9315.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_369CB194_2154_0D31_41A3_E910064E897F.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_7350421E_1C52_3837_41B0_F87B554C20BE.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_7350121C_1C52_383B_41A5_7A25FC636863.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_346B5BEE_21D4_1D10_41B3_4190957F310B.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Floorplan
+
+### Imágen
+imlevel_60A69898_1FD2_483B_41A7_ED90D5BC2479.url = media/map_29D3337B_1C31_F8FD_41A9_A4CB34FF9242_es_0.webp
+imlevel_60A6B898_1FD2_483B_417B_1061E5E34A44.url = media/map_29D3337B_1C31_F8FD_41A9_A4CB34FF9242_es_1.webp
+imlevel_60A6D898_1FD2_483B_4197_0D634C1F87D4.url = media/map_29D3337B_1C31_F8FD_41A9_A4CB34FF9242_es_2.webp
+imlevel_60A458BA_1FD2_487F_4198_BF94E0FCFE12.url = media/map_5C3ECADD_1CDE_4835_41B0_7FA6EA44337C_es_0.webp
+imlevel_60A458BA_1FD2_487F_41B3_98FDD771DEB1.url = media/map_5C3ECADD_1CDE_4835_41B0_7FA6EA44337C_es_1.webp
+imlevel_60A468BB_1FD2_487D_41B0_D8F10909F458.url = media/map_5C3ECADD_1CDE_4835_41B0_7FA6EA44337C_es_2.webp
+imlevel_60A598BB_1FD2_487D_41A5_B041A9159B76.url = media/map_5C3ECADD_1CDE_4835_41B0_7FA6EA44337C_es_3.webp
+
+### Título
+album_12F87F7E_1C2F_C8F7_419E_FBC597DC7FFD_0.label = 01
+album_12F87F7E_1C2F_C8F7_419E_FBC597DC7FFD_1.label = 02
+album_12F87F7E_1C2F_C8F7_419E_FBC597DC7FFD_2.label = 03
+album_12F87F7E_1C2F_C8F7_419E_FBC597DC7FFD_3.label = 04
+album_12F87F7E_1C2F_C8F7_419E_FBC597DC7FFD_4.label = 05
+photo_6C751F91_1C2E_480D_41BC_019B679AD029.label = 06
+photo_6C751F91_1C2E_480D_41BC_019B679AD029.label = 06
+photo_6D8792C1_1C2E_380C_41A1_F4BA1C694FF8.label = 07
+photo_6D8792C1_1C2E_380C_41A1_F4BA1C694FF8.label = 07
+panorama_12629F2F_1C32_C814_418F_748A2BB1E2B4.label = Amphitheater
+panorama_1262A23D_1C32_F874_41AC_4763EAFE8B0E.label = Basketball Court
+map_29D3337B_1C31_F8FD_41A9_A4CB34FF9242.label = Floorplan Harlingen
+map_5C3ECADD_1CDE_4835_41B0_7FA6EA44337C.label = Floorplan Interior
+panorama_13087668_1C33_D81C_41B3_9E4646D88F6D.label = Front Elevation
+photo_6D87B3F6_1C2F_FFF7_4192_FD841D389837.label = Harlingen Rec Center Lobby
+photo_6D87B3F6_1C2F_FFF7_4192_FD841D389837.label = Harlingen Rec Center Lobby
+photo_6FB911FD_1C2F_FBF5_41BA_4B964AD62205.label = Harlingen Rec Center Offices
+photo_6FB911FD_1C2F_FBF5_41BA_4B964AD62205.label = Harlingen Rec Center Offices
+album_12F87F7E_1C2F_C8F7_419E_FBC597DC7FFD.label = Images
+panorama_7EA7B473_1DD6_D80D_41B0_96453B84A7C6.label = Interior 2nd Floor
+panorama_5BB16189_1CFE_581D_41AF_D5632158EC75.label = Interior Option A
+panorama_7563308F_1C2E_D815_41AE_FBD75DD82F6D.label = Interior Option B
+panorama_12629E75_1C32_48F5_41B9_E06A0A1888C5.label = Landscaped Garden
+panorama_126196B4_1C32_3874_419B_D162A77E7AD0.label = Main Entrance
+panorama_126150C9_1C32_D81D_41B7_742F984E4D31.label = Pedestrian Walkway
+panorama_24690BBF_1CD1_C875_419F_C7FB26A03C2D.label = Portada
+panorama_1262CC10_1C32_480B_41AC_E50B6648082A.label = Seating Area
+panorama_126756FD_1C32_59F5_419A_9F99BA472DB5.label = Side Elevation
+
+## Skin
+
+### Imágen
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_es.png
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Harlingen Recreation Center
