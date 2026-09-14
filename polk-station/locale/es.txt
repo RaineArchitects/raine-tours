@@ -1,0 +1,69 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_AD6E4853_A03F_8F73_41E0_94DC6FBCACA9.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_3299740F_21DC_0B10_41C0_67DDAC0EC1D4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_39A7079C_2154_1531_41BC_1F0F465F40DD.source = https://rainearchitects.com/
+LinkBehaviour_AD6F6853_A03F_8F73_41B3_698274753258.source = https://rainearchitects.com/
+LinkBehaviour_36C510BF_2154_0B70_41A0_D0D8A0C999D7.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_AD6E0855_A03F_8F77_41DF_D008B901C0C7.source = https://www.facebook.com/profile.php?id=61585234204838
+PopupWebFrameBehaviour_AD72484B_A03F_8F53_41D9_93043B34D7E8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1209.9562588741194!2d-98.20164096283102!3d26.20667363163238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8665a0bfb09c59d3%3A0x77fcb9813426e58d!2s1503%20W%20Polk%20Ave%2C%20Pharr%2C%20TX%2078577%2C%20USA!5e1!3m2!1sen!2sni!4v1789143439651!5m2!1sen!2sni
+PopupWebFrameBehaviour_414B0370_1C3E_580B_41AE_6A2C56709307.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1209.9562588741194!2d-98.20164096283102!3d26.20667363163238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8665a0bfb09c59d3%3A0x77fcb9813426e58d!2s1503%20W%20Polk%20Ave%2C%20Pharr%2C%20TX%2078577%2C%20USA!5e1!3m2!1sen!2sni!4v1789143439651!5m2!1sen!2sni
+LinkBehaviour_37445796_2154_1531_41A5_F45AC7537A7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_AD6FE853_A03F_8F73_41D5_A2EF9B1A48E8.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_369CB194_2154_0D31_41A3_E910064E897F.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_AD6FD853_A03F_8F73_41CD_63E6ABD67C8B.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_AD6E8853_A03F_8F73_415A_E725DA2DEE87.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_346B5BEE_21D4_1D10_41B3_4190957F310B.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Floorplan
+
+### Imágen
+imlevel_B27B09B7_A047_8133_41E3_C0D64F635865.url = media/map_88756E6D_9158_19F3_41E0_80704F422026_es_0.webp
+imlevel_B27B59B7_A047_8133_41E3_F9EA8507C5A3.url = media/map_88756E6D_9158_19F3_41E0_80704F422026_es_1.webp
+imlevel_B27B49B8_A047_813D_41D2_B06125D01321.url = media/map_88756E6D_9158_19F3_41E0_80704F422026_es_2.webp
+imlevel_B27BA9B8_A047_813D_41E1_D8FDAA9A9248.url = media/map_88756E6D_9158_19F3_41E0_80704F422026_es_3.webp
+
+### Título
+map_88756E6D_9158_19F3_41E0_80704F422026.label = Floorplan polk
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_0.label = Hero 01
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_1.label = Hero 02
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_2.label = Hero 03
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_3.label = Hero 04
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_4.label = Hero 05
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_5.label = Hero 06
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_6.label = Hero 07
+album_82F14F8B_9128_1737_41C4_FA5AB293A691_7.label = Hero 08
+panorama_9C932BDC_90DD_2982_41B5_5BC3D756E51B.label = Portada
+album_82F14F8B_9128_1737_41C4_FA5AB293A691.label = Álbum de Fotos Hero 01
+
+## Skin
+
+### Imágen
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_es.png
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_es.jpg
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile_es.jpg
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Polk Station
