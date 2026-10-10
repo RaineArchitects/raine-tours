@@ -1,0 +1,83 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_00DB9852_259A_B3F2_41B6_9A45A5168957.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_3299740F_21DC_0B10_41C0_67DDAC0EC1D4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_39A7079C_2154_1531_41BC_1F0F465F40DD.source = https://rainearchitects.com/
+LinkBehaviour_030FD855_259A_B3F6_41BA_16007126E952.source = https://rainearchitects.com/
+LinkBehaviour_36C510BF_2154_0B70_41A0_D0D8A0C999D7.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_030D6856_259A_B3F2_41AB_CC0A165C0F2F.source = https://www.facebook.com/profile.php?id=61585234204838
+PopupWebFrameBehaviour_0C67D819_259A_B371_4184_160B028BF3C4.url = https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.876251364208!2d-97.67828116245747!3d26.20753948110117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spendleton%20park%20texas!5e1!3m2!1sen!2sni!4v1787178270621!5m2!1sen!2sni
+PopupWebFrameBehaviour_414B0370_1C3E_580B_41AE_6A2C56709307.url = https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.876251364208!2d-97.67828116245747!3d26.20753948110117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spendleton%20park%20texas!5e1!3m2!1sen!2sni!4v1787178270621!5m2!1sen!2sni
+LinkBehaviour_37445796_2154_1531_41A5_F45AC7537A7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_030D5856_259A_B3F2_41BB_EE08641C2749.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_369CB194_2154_0D31_41A3_E910064E897F.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_030E9855_259A_B3F6_4165_C919FAB19266.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_030E3854_259A_B3F6_41BB_6EBAB1949513.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_346B5BEE_21D4_1D10_41B3_4190957F310B.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Floorplan
+
+### Imágen
+imlevel_287A4E84_2529_79A7_41B3_18EAAB21B05D.url = media/map_30267EBB_24BB_4CB1_41BA_B9913CEA894E_es_0.webp
+imlevel_287A6E84_2529_79A7_41A9_ACEDD3167E04.url = media/map_30267EBB_24BB_4CB1_41BA_B9913CEA894E_es_1.webp
+imlevel_287A8E84_2529_79A7_41B8_E0571D5D69EE.url = media/map_30267EBB_24BB_4CB1_41BA_B9913CEA894E_es_2.webp
+
+### Subtítulos de Video
+
+### Título
+video_022A9B23_2596_B551_41A6_F392FF9C3521.label = 3DVISTA fireplace
+panorama_28D08BA3_244C_B46B_41BA_8E07B0B9877A.label = Boy Bedroom
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_0.label = Boys Room
+panorama_2FE583D1_244C_9427_41BC_98F333320FC6.label = Girl Bedroom
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_1.label = Girl Room
+panorama_2FE51C26_244C_8C6D_41B4_D61037D7770B.label = Guest Room
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_2.label = Kitchen
+panorama_3B48E7F3_2596_BCB1_41AF_ECCAB1893F86.label = Living Room
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_3.label = Living Room
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_4.label = Master Bathroom
+panorama_3879D591_24F9_5D71_41BC_9A41671B07DE.label = Master Bathroom
+panorama_38336FCC_2596_CCD7_41AF_1C67801A8DA3.label = Master Bedroom
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_5.label = Master Bedroom
+panorama_2FB38B5C_244C_F4DD_41BF_485C101FD88A.label = Portada
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3_6.label = Suite
+video_3F9C8294_24EE_B777_4194_F03573DC79D0.label = VIDEO PRESENTATION
+map_30267EBB_24BB_4CB1_41BA_B9913CEA894E.label = floorplan
+album_376F272B_24AB_5D52_41C0_A4587FF99AE3.label = Álbum de Fotos Boys Room
+
+### Video
+videolevel_033C339B_259B_7571_41B6_4D2AF4A80490.url = media/video_022A9B23_2596_B551_41A6_F392FF9C3521_es.mp4
+videolevel_033C339B_259B_7571_41B6_4D2AF4A80490.posterURL = media/video_022A9B23_2596_B551_41A6_F392FF9C3521_poster_es.jpg
+videolevel_04B92740_25A9_FDCF_41B0_EEA581D447C4.url = media/video_3F9C8294_24EE_B777_4194_F03573DC79D0_es.mp4
+videolevel_04B92740_25A9_FDCF_41B0_EEA581D447C4.posterURL = media/video_3F9C8294_24EE_B777_4194_F03573DC79D0_poster_es.jpg
+
+## Skin
+
+### Imágen
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_es.png
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_es.jpg
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile_es.jpg
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Gonzalez Residence v1
