@@ -1,0 +1,67 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_8D9696AD_AD0D_FBB3_41E0_101D866FADA0.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_3299740F_21DC_0B10_41C0_67DDAC0EC1D4.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_39A7079C_2154_1531_41BC_1F0F465F40DD.source = https://rainearchitects.com/
+LinkBehaviour_8D94C6AF_AD0D_FB8F_41B7_220229E34D70.source = https://rainearchitects.com/
+LinkBehaviour_36C510BF_2154_0B70_41A0_D0D8A0C999D7.source = https://www.facebook.com/profile.php?id=61585234204838
+LinkBehaviour_8D9506B0_AD0D_FB91_41E5_4BC0454B61D2.source = https://www.facebook.com/profile.php?id=61585234204838
+PopupWebFrameBehaviour_8D9756AA_AD0D_FBB1_41E2_0236B502A7D2.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3319.8193341673605!2d-98.80029937784465!3d26.371987987493103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sni!4v1793910646639!5m2!1sen!2sni
+PopupWebFrameBehaviour_414B0370_1C3E_580B_41AE_6A2C56709307.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3319.8193341673605!2d-98.80029937784465!3d26.371987987493103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sni!4v1793910646639!5m2!1sen!2sni
+LinkBehaviour_37445796_2154_1531_41A5_F45AC7537A7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_8D96C6B0_AD0D_FB91_41D0_BA9854059C7B.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_369CB194_2154_0D31_41A3_E910064E897F.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_8D9306AF_AD0D_FB8F_41C9_20DFD3696525.source = https://www.linkedin.com/company/raine-architects/
+LinkBehaviour_8D9596AE_AD0D_FBB1_41D4_81BDF510B6C8.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_346B5BEE_21D4_1D10_41B3_4190957F310B.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Floorplan
+
+### Imágen
+imlevel_8A53EBF8_AD74_E991_41E0_518B7F865587.url = media/map_B8DB214F_AD1C_368F_41E5_7477B3694D99_es_0.webp
+imlevel_8A530BF8_AD74_E991_41C2_966BB0063AD7.url = media/map_B8DB214F_AD1C_368F_41E5_7477B3694D99_es_1.webp
+imlevel_8A533BF8_AD74_E991_41E4_93E0EE9D6D3C.url = media/map_B8DB214F_AD1C_368F_41E5_7477B3694D99_es_2.webp
+imlevel_8A532BF9_AD74_E993_41BF_0C837FBF9EE0.url = media/map_B8DB214F_AD1C_368F_41E5_7477B3694D99_es_3.webp
+
+### Título
+panorama_A6AFA79A_AD0C_5991_41C1_B9612E3B1CF8.label = Central View
+album_B8937E15_AD1C_2A93_41C5_526986265E3C_0.label = Front View
+panorama_A19B4DB0_AD0C_6992_41C4_7CFB7FDA74A2.label = Left View
+album_B8937E15_AD1C_2A93_41C5_526986265E3C_1.label = Left View
+panorama_8DE92D49_AD0C_EEF3_41E0_950F7736C8C6.label = Portada
+panorama_A6929ECB_AD0C_2BF7_41DC_7A977C8C14B2.label = Right View
+album_B8937E15_AD1C_2A93_41C5_526986265E3C_2.label = Right View
+map_B8DB214F_AD1C_368F_41E5_7477B3694D99.label = floorplan
+album_B8937E15_AD1C_2A93_41C5_526986265E3C.label = Álbum de Fotos Front View
+
+## Skin
+
+### Imágen
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_es.png
+Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile.url = skin/Image_0AF8F9FA_1E43_FE84_4199_71CCC59AA4A2_mobile_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_es.png
+Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile.url = skin/Image_0B5E369C_1E42_B2BC_41B2_0EAECC60A389_mobile_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_es.png
+Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile.url = skin/Image_0C0638E9_1E42_7E85_41B1_1858A22455E8_mobile_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_es.png
+Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile.url = skin/Image_0C16FF35_1E7E_B38C_416B_84D68684D03B_mobile_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_es.png
+Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile.url = skin/Image_0C4F401C_1E41_ED83_41BB_561B96ABE313_mobile_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_es.png
+Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile.url = skin/Image_0F444E81_1E41_B285_4192_AD3FECBDA9E2_mobile_es.png
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_es.jpg
+Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile.url = skin/Image_102A849D_1E41_96BD_41A7_C7DE9642A918_mobile_es.jpg
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_es.png
+Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile.url = skin/Image_2FE2EF14_20B4_F531_41BF_92CB2B5132C3_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = RGC Legacy
