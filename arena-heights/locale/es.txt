@@ -1,0 +1,257 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_D453EB4A_9D72_3699_41DC_DD02123098B7.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_D7FA9C26_9D72_1296_41CF_D7A640F1610B.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_D6E5514A_9D72_1299_41BB_1E13ACBE0095.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_D1D273ED_9D72_359A_41C4_67E52328E6F1.source = https://api.whatsapp.com/send?phone=19567894823&text=Hello,%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_DE65C676_9D16_3F76_41D5_AB177739A1B2.source = https://rainearchitects.com/
+LinkBehaviour_DE64A677_9D16_3F76_41DB_727135D58576.source = https://rainearchitects.com/
+LinkBehaviour_DE616677_9D16_3F76_41D7_40C7750E2D8E.source = https://rainearchitects.com/
+LinkBehaviour_8D489E11_9D12_6AB8_41D7_2D7B2094DA38.source = https://rainearchitects.com/
+LinkBehaviour_DE617677_9D16_3F76_41E2_9628543F0549.source = https://rainearchitects.com/
+LinkBehaviour_D8B77FAB_9D12_2D9E_41AC_F6C2A8DEBFAA.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_DDD8F0AE_9D12_1396_41C4_96CFFB6D0C54.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_DF87FE67_9D12_6E97_41D2_528A1C12E9A2.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_DE2D51F1_9D12_158A_41E1_8E5C524A7ACB.source = https://www.instagram.com/rainearchitects/
+LinkBehaviour_D70895D1_9D72_7D8A_41C5_261C1291AF2E.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_D7F7F412_9D72_128E_41AE_3D92A984A5B5.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_D46B908B_9D72_339E_41D3_BBFBF2CEB82F.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+LinkBehaviour_D5609CB4_9D73_F38A_41BC_10A0B0D7BC82.source = mailto:edgar@rainearchitects.com?subject=New%20Project%20Inquiry&body=Hello%2C%20I%E2%80%99m%20interested%20in%20starting%20a%20new%20project%20and%20would%20love%20to%20discuss%20the%20details.
+
+## Media
+
+### Subtítulos de Video
+
+### Título
+video_816D9C34_8E24_6148_41D7_66CD7BD0FF54.label = Edificio 1 Punto A a B
+video_DF4C9F4E_C196_DB35_41DB_F7CF65D550A2.label = Edificio 1 Punto A a B_Inverse
+video_EC524367_C297_EBF3_41B9_4615C38D2104.label = Edificio 2 Punto A a B
+video_EED538E9_C297_E6FF_41D5_C5F81CA6EA60.label = Edificio 2 Punto A a B_Inverse
+video_F16FFCD4_C2BA_BED6_41D2_4EF344C68B76.label = Edificio 3 Punto A a B
+video_F0B1B08F_C2BA_A533_41CC_E803B7300423.label = Edificio 3 Punto A a B_Inverse
+video_F0B1E32F_C2BA_AB73_41D4_639ECA4CD4FB.label = Edificio 4 Punto A a B
+video_F0B1A5C1_C2BA_AF2E_41D1_ACA24A3AF040.label = Edificio 4 Punto A a B_Inverse
+video_C2E039C2_9F32_F58E_41D2_B91E91E5AD40.label = SitePlan 1_4K_Inverse_5Seg
+video_9E20F1EB_8E3C_62D8_41D5_430147DD37ED.label = SitePlan Intro Loop
+
+### Video
+videolevel_8B9A7E6A_9F2C_F638_41D9_7C2AB4553421.url = media/video_816D9C34_8E24_6148_41D7_66CD7BD0FF54_es.mp4
+videolevel_8B9A7E6A_9F2C_F638_41D9_7C2AB4553421.posterURL = media/video_816D9C34_8E24_6148_41D7_66CD7BD0FF54_poster_es.jpg
+videolevel_8B833D4F_9F2C_FA78_41B6_688201D0E2F8.url = media/video_9E20F1EB_8E3C_62D8_41D5_430147DD37ED_es.mp4
+videolevel_8B833D4F_9F2C_FA78_41B6_688201D0E2F8.posterURL = media/video_9E20F1EB_8E3C_62D8_41D5_430147DD37ED_poster_es.jpg
+videolevel_8B9380CC_9F2C_8A78_41C4_9CEF51DBBEDE.url = media/video_C2E039C2_9F32_F58E_41D2_B91E91E5AD40_es.mp4
+videolevel_8B9380CC_9F2C_8A78_41C4_9CEF51DBBEDE.posterURL = media/video_C2E039C2_9F32_F58E_41D2_B91E91E5AD40_poster_es.jpg
+videolevel_E3F2CE73_C1BB_DDD3_41A6_234CC4CA6E91.url = media/video_DF4C9F4E_C196_DB35_41DB_F7CF65D550A2_es.mp4
+videolevel_E3F2CE73_C1BB_DDD3_41A6_234CC4CA6E91.posterURL = media/video_DF4C9F4E_C196_DB35_41DB_F7CF65D550A2_poster_es.jpg
+videolevel_F3D41D46_C2AE_DF35_41CE_1201F99CF393.url = media/video_EC524367_C297_EBF3_41B9_4615C38D2104_es.mp4
+videolevel_F3D41D46_C2AE_DF35_41CE_1201F99CF393.posterURL = media/video_EC524367_C297_EBF3_41B9_4615C38D2104_poster_es.jpg
+videolevel_F3D21E68_C2AE_DDFD_41B6_B9D22FD8AA26.url = media/video_EED538E9_C297_E6FF_41D5_C5F81CA6EA60_es.mp4
+videolevel_F3D21E68_C2AE_DDFD_41B6_B9D22FD8AA26.posterURL = media/video_EED538E9_C297_E6FF_41D5_C5F81CA6EA60_poster_es.jpg
+videolevel_F4C4A075_C2A9_A5D7_41DA_342C94B79F7A.url = media/video_F0B1A5C1_C2BA_AF2E_41D1_ACA24A3AF040_es.mp4
+videolevel_F4C4A075_C2A9_A5D7_41DA_342C94B79F7A.posterURL = media/video_F0B1A5C1_C2BA_AF2E_41D1_ACA24A3AF040_poster_es.jpg
+videolevel_F4CBBE37_C2A9_5D52_41D7_99F52DBE41A4.url = media/video_F0B1B08F_C2BA_A533_41CC_E803B7300423_es.mp4
+videolevel_F4CBBE37_C2A9_5D52_41D7_99F52DBE41A4.posterURL = media/video_F0B1B08F_C2BA_A533_41CC_E803B7300423_poster_es.jpg
+videolevel_F4CEFF4E_C2A9_5B32_41D3_EC5CD6FEC967.url = media/video_F0B1E32F_C2BA_AB73_41D4_639ECA4CD4FB_es.mp4
+videolevel_F4CEFF4E_C2A9_5B32_41D3_EC5CD6FEC967.posterURL = media/video_F0B1E32F_C2BA_AB73_41D4_639ECA4CD4FB_poster_es.jpg
+videolevel_F4D28CFC_C2A9_5ED6_41D3_FCD852A245C9.url = media/video_F16FFCD4_C2BA_BED6_41D2_4EF344C68B76_es.mp4
+videolevel_F4D28CFC_C2A9_5ED6_41D3_FCD852A245C9.posterURL = media/video_F16FFCD4_C2BA_BED6_41D2_4EF344C68B76_poster_es.jpg
+
+## Skin
+
+### Botón
+Button_DF55AB83_9D12_758F_41E0_EFFADD91E504.label = +1 (956) 789-4823
+Button_A71F4287_9D32_1796_41D0_B5A5541EEED9.label = @rainearchitects
+Button_96BF3890_8E24_2148_41C7_7DD122868B68.label = AMENITIES >
+Button_D3ABAB70_9F36_768A_41BD_0948FB81A1B6.label = Accept
+Button_B0B7E834_9DF2_36F8_41D8_A567A9D2088D.label = Areas
+Button_96BCA891_8E24_2148_41AA_C34534A935E5.label = BACK
+Button_96BC1892_8E24_2148_41D7_151BA9BEF6FB.label = BACK
+Button_96BCA890_8E24_2148_41E1_AEC85BB9A5D9.label = BACK
+Button_96BCA891_8E24_2148_41BC_4656443552F0.label = BACK
+Button_96BC2892_8E24_2148_41DC_8745FA1761D5.label = BACK
+Button_96BC4892_8E24_2148_41E0_F106FE84F5A8.label = BACK
+Button_96BF5891_8E24_2148_4190_5E7012F35578.label = Bar
+Button_B0DECF22_9DF2_2E8E_41B9_B2FDE8D63CAC.label = Brochure
+Button_96BF4891_8E24_2148_41D1_4C62B64C91AE.label = Chill Out
+Button_C6F6AD7C_9F1E_2D7A_41D5_6B5A8A009FD7.label = Contact
+Button_A4F52CD0_9D36_138A_41C9_90EF8C7D00FF.label = Disclaimer
+Button_D9D72314_9D16_368A_41D8_04FF9A18A1AC.label = Email
+Button_96BC9891_8E24_2148_41E1_61E995513208.label = Garden
+Button_B02AD8E7_9DF7_F798_41C6_FF66898788F6.label = Home
+Button_96BF3890_8E24_2148_41C7_7DD122868B68.pressedLabel = Inserdt Text
+Button_B1FF7AF4_9D12_2B78_41DC_627E7C12EF9A.label = Instagram
+Button_96BCE891_8E24_2148_41C6_F87C6299BD66.label = Lobby
+Button_B1649A4B_9DFE_769E_41D9_E53E2418F91A.label = Location
+Button_96BC3891_8E24_2148_41C8_9A7126360F73.label = Lorem Ipsum
+Button_96BC1891_8E24_2148_41CC_5063C3AE57A1.label = Lorem Ipsum
+Button_96BC5891_8E24_2148_41D4_D07530845C32.label = Lorem Ipsum
+Button_96BC8891_8E24_2148_4175_A0EC24CDD1D5.label = Lorem Ipsum
+Button_96BF7891_8E24_2148_41D4_80509633C2A2.label = Lorem Ipsum
+Button_96BF6891_8E24_2148_41B3_5CE3CC36D162.label = Lorem Ipsum
+Button_96BC9891_8E24_2148_41D7_D26620975099.label = Lorem Ipsum
+Button_96BC8891_8E24_2148_41E0_1EBC755651BD.label = Lorem Ipsum
+Button_96BC3891_8E24_2148_41C8_9A7126360F73.pressedLabel = Lorem Ipsum
+Button_96BC3891_8E24_2148_41DE_FFCCF83A33BC.label = Lorem Ipsum
+Button_96BC2891_8E24_2148_41D8_56B77012F3FA.label = Lorem Ipsum
+Button_96BC5891_8E24_2148_41CD_F21375AD87D2.pressedLabel = Lorem Ipsum
+Button_96BC5891_8E24_2148_41CD_F21375AD87D2.label = Lorem Ipsum
+Button_96BC4891_8E24_2148_41DC_C116BEF4A9AD.label = Lorem Ipsum
+Button_96BC7891_8E24_2148_41B1_4FF26CC4F4E5.label = Lorem Ipsum
+Button_96BC0891_8E24_2148_41E0_D27D0631E88C.label = Lorem Ipsum
+Button_96BD9891_8E24_2148_41C3_472B2B47DCCA.label = Lorem Ipsum
+Button_96BD8891_8E24_2148_41CB_397ED42AB20D.label = Lorem Ipsum
+Button_96BCD891_8E24_2148_41D1_903677680D10.label = Lorem Ipsum
+Button_96BCC891_8E24_2148_41A4_8BD6019D3650.label = Lorem Ipsum
+Button_96BC2891_8E24_2148_418C_C5EA8470D025.label = Lorem Ipsum
+Button_96BC5892_8E24_2148_41D9_88EA0A1BB233.label = Lorem Ipsum
+Button_96BC7892_8E24_2148_41DF_AE2A4620718B.label = Lorem Ipsum
+Button_96BD9892_8E24_2148_41E0_A333901F94F1.pressedLabel = Lorem Ipsum
+Button_96BD9892_8E24_2148_41E0_A333901F94F1.label = Lorem Ipsum
+Button_96BD8892_8E24_2148_41B2_E3CAD525D683.label = Lorem Ipsum
+Button_96BDB892_8E24_2148_41DA_9D16F04679B3.label = Lorem Ipsum
+Button_96BDF892_8E24_2148_41C0_5FFC73D93642.label = Lorem Ipsum
+Button_96BDD892_8E24_2148_41CB_19E5B481B24D.label = Lorem Ipsum
+Button_96BDC892_8E24_2148_41D5_1D5B9B6673CC.label = Lorem Ipsum
+Button_96BDE892_8E24_2148_41D9_BB57CD18D577.label = Lorem Ipsum
+Button_96BC0892_8E24_2148_41D0_C95C7DFBBFA4.label = Lorem Ipsum
+Button_96BD5892_8E24_2148_41C3_53018932F89A.label = Lorem Ipsum
+Button_96BC7892_8E24_2148_41D1_B0DC4B4B6F9C.label = Lorem Ipsum
+Button_96BC6892_8E24_2148_41B8_825615F5B72C.label = Lorem Ipsum
+Button_96BD9892_8E24_2148_41C0_F8A96AB3898C.pressedLabel = Lorem Ipsum
+Button_96BD9892_8E24_2148_41C0_F8A96AB3898C.label = Lorem Ipsum
+Button_96BD8892_8E24_2148_41D8_C56D93EB587C.label = Lorem Ipsum
+Button_96BDA892_8E24_2148_41DD_B490C3DEB9AD.label = Lorem Ipsum
+Button_96BD8892_8E24_2148_41C7_DAEF59FE6EF5.label = Lorem Ipsum
+Button_96BD2892_8E24_2148_419A_0F6502C020C3.label = Lorem Ipsum
+Button_96BDE892_8E24_2148_41E0_B22A6D434354.label = Lorem Ipsum
+Button_96BD1892_8E24_2148_4198_365240BA78BC.label = Lorem Ipsum
+Button_96BD0892_8E24_2148_41D5_E040C3BF187E.label = Lorem Ipsum
+Button_96BDA892_8E24_2148_41C4_1BD8F9B7242E.label = Lorem Ipsum
+Button_96BD9892_8E24_2148_41E1_C3402998E6C3.label = Lorem Ipsum
+Button_96BDC892_8E24_2148_41D5_E5FE4FA80AFF.label = Lorem Ipsum
+Button_96BDB892_8E24_2148_41DB_ECD1C92D78EB.pressedLabel = Lorem Ipsum
+Button_96BDB892_8E24_2148_41DB_ECD1C92D78EB.label = Lorem Ipsum
+Button_96BD1892_8E24_2148_41BF_CD8234FF6AD5.label = Lorem Ipsum
+Button_96BD0892_8E24_2148_41DD_C93E2622E0D2.label = Lorem Ipsum
+Button_96BDD892_8E24_2148_41DE_984D974FF06C.label = Lorem ipsum
+Button_96BC6891_8E24_2148_41E1_50C86B7BF1EA.label = Lorem ipsum
+Button_96BDA892_8E24_2148_41B6_1EA8573AC630.label = Lorem ipsum
+Button_96BDF892_8E24_2148_4195_80F7C899042C.label = Lorem ipsum
+Button_96BC4891_8E24_2148_416D_D53D95B9C48C.label = Lorem ipsum
+Button_96BCF891_8E24_2148_41D2_6847D94804AC.label = Main Entrance
+Button_B11EE2C8_9DF1_FBA8_41BC_2AD302E328B3.label = Masterplan
+Button_96BC5891_8E24_2148_41D7_17E893B207CC.label = Meeting Area 1
+Button_96BC4891_8E24_2148_41B5_080EB5104A48.label = Meeting Area 2
+Button_96BFF890_8E24_2148_41B8_A14E66D9A51D.label = RECEPTION >
+Button_96BC8890_8E24_2148_41D4_89CC4673B063.label = RESTAURANTS >
+Button_96BF1890_8E24_2148_41D5_F21F12663326.label = ROOMS >
+Button_96BC2891_8E24_2148_41AD_6F706B6978F0.label = Reception
+Button_96BC2891_8E24_2148_41AD_6F706B6978F0.pressedLabel = Reception
+Button_96BF5890_8E24_2148_41C7_A7B1A2C22DC6.label = SPORTS AREA >
+Button_96BF6890_8E24_2148_41C0_C967DB3A98A4.label = SWIMMING POOL >
+Button_96BF6891_8E24_2148_41CB_1C685F436194.label = Terrace
+Button_9FCBE611_8E2C_214B_41C7_9D1C982E5E0A.label = Tour 360°
+Button_B036C64F_9DF6_1AA8_41D4_A614ACB7EBDD.label = Tour 360°
+Button_B057DFE4_9DF2_2D8A_4172_074BC358EFA2.label = Units
+Button_952C1CBC_8EDC_62B8_4188_24C1017E0F64.label = View Masterplan
+Button_DE6B6674_9D16_3E8A_41DD_AF02A52D65BC.label = Web
+Button_DF56DB82_9D12_7589_41E0_0910443BCCE8.label = Whatsapp
+Button_D9D77315_9D16_368A_41C0_E5EEC5891D9A.label = edgar@rainearchitects.com
+Button_DE6AE676_9D16_3F76_41C3_C55E31D17166.label = rainearchitects.com
+
+### Etiqueta
+Label_D15A5109_9D12_129A_41A0_21D2637B9D9A.text = A R C H I T E C T U R E    S T U D I O
+Label_D9948A6D_C1EF_A5F6_41E6_29ADC216F4DE.text = Apartments
+Label_D953BDF8_C1FA_DEDE_41D6_C641F1200F48.text = Commercial Plaza
+Label_D010DB85_C0E4_D257_41C7_AD5ED5AADBA8.text = Commercial Properties
+Label_B9B8B263_9D32_1A98_41E2_7774B2F9391F.text = Edinburg, Texas, USA
+Label_CF8B50D5_C0E5_EFF7_41E1_55FC7CF26605.text = Healthcare & Commercial
+Label_D995565D_C1FB_EDD7_41C4_81CAF9EAE9E4.text = Healthcare Center
+Label_CCB4A0F4_9FF2_3389_41E1_A89C06C49D7A.text = LEGAL DISCLAIMER
+Label_841866D3_9D1E_7BB8_41D4_E10F0C9ACB32.text = MENU
+Label_D8A77783_C1FA_AB33_41E2_8D7671822BB4.text = Offices
+Label_D16EAEC9_9F36_2F9B_41D5_6AE0D664B1DB.text = R A I N E  A R C H I T E C T S
+Label_D08411A5_C0FD_2E57_41E1_7C6AB6840ED8.text = Residential Development
+Label_CD733ACB_9FF2_779E_41E0_390EFD60C01B.text = Visual Representations & Potential Project Changes
+Label_D0B576E7_9F11_FF97_41E0_441F14F95BFB.text = © RAINE ARCHITECTS. ALL RIGHTS RESERVED.
+
+### Imágen
+Image_92897E78_9D12_2B68_41DC_3462426E14FD.url = skin/Image_92897E78_9D12_2B68_41DC_3462426E14FD_es.png
+Image_96BF288B_8E24_2158_41DC_6B502C0D879F.url = skin/Image_96BF288B_8E24_2158_41DC_6B502C0D879F_es.jpg
+Image_9E970CC0_8E24_22C8_41D6_51EEDE027AD6.url = skin/Image_9E970CC0_8E24_22C8_41D6_51EEDE027AD6_es.png
+Image_A768104C_9D2E_329A_41E2_E61503CE7D49.url = skin/Image_A768104C_9D2E_329A_41E2_E61503CE7D49_es.png
+Image_A80BD628_9D16_1E9A_41E1_7AEF494D2991.url = skin/Image_A80BD628_9D16_1E9A_41E1_7AEF494D2991_es.png
+Image_A82EE0C0_9D12_F389_41AB_B95534D2926F.url = skin/Image_A82EE0C0_9D12_F389_41AB_B95534D2926F_es.png
+Image_AA0FCB98_9D32_35BA_41DF_E89C5F2896E4.url = skin/Image_AA0FCB98_9D32_35BA_41DF_E89C5F2896E4_es.png
+Image_AA887239_9D2E_76FA_41E2_3305F79D35DE.url = skin/Image_AA887239_9D2E_76FA_41E2_3305F79D35DE_es.png
+Image_AB57D8C0_9D32_138A_41DC_7EFE16B10C9C.url = skin/Image_AB57D8C0_9D32_138A_41DC_7EFE16B10C9C_es.png
+Image_ABCEC219_9D1E_76BB_41E2_FA189F27B5D9.url = skin/Image_ABCEC219_9D1E_76BB_41E2_FA189F27B5D9_es.png
+Image_ABDEC0C2_9D12_138E_41AD_4F33D72B9582.url = skin/Image_ABDEC0C2_9D12_138E_41AD_4F33D72B9582_es.png
+Image_AC454A3D_9DF6_76FB_41A2_052327D3A262.url = skin/Image_AC454A3D_9DF6_76FB_41A2_052327D3A262_es.png
+Image_ACC90FC9_9DF2_2D9A_41D7_EB4691E6F7F5.url = skin/Image_ACC90FC9_9DF2_2D9A_41D7_EB4691E6F7F5_es.png
+Image_AE27728B_9DEE_379F_41E3_4396AE8A54BA.url = skin/Image_AE27728B_9DEE_379F_41E3_4396AE8A54BA_es.png
+Image_BB31885C_9D32_16A8_41DD_D87255F3969F.url = skin/Image_BB31885C_9D32_16A8_41DD_D87255F3969F_es.png
+Image_BD9DBB7F_9D76_2968_41DF_CCFA6A54AED3.url = skin/Image_BD9DBB7F_9D76_2968_41DF_CCFA6A54AED3_es.png
+Image_C16104CA_9F16_1399_41DA_F6D5BCBCF586.url = skin/Image_C16104CA_9F16_1399_41DA_F6D5BCBCF586_es.png
+Image_CD5D6F02_9FF6_EE89_41C5_81D047203AB9.url = skin/Image_CD5D6F02_9FF6_EE89_41C5_81D047203AB9_es.png
+Image_CE0C80C1_C0DC_EFCF_41B1_0AD36E26842B.url = skin/Image_CE0C80C1_C0DC_EFCF_41B1_0AD36E26842B_es.jpg
+Image_CE1110A5_C0DD_2E57_41E4_FCA2FEE4DE82.url = skin/Image_CE1110A5_C0DD_2E57_41E4_FCA2FEE4DE82_es.jpg
+Image_CF58031E_C0DD_3275_41D2_E9D02D51D729.url = skin/Image_CF58031E_C0DD_3275_41D2_E9D02D51D729_es.jpg
+Image_D0102B86_C0E4_D255_41D8_79E709DA8BDC.url = skin/Image_D0102B86_C0E4_D255_41D8_79E709DA8BDC_es.png
+Image_D08331A6_C0FD_2E55_41E3_F54AC200FD51.url = skin/Image_D08331A6_C0FD_2E55_41E3_F54AC200FD51_es.png
+Image_D0E11479_C0FD_36BE_41DD_4937559661DE.url = skin/Image_D0E11479_C0FD_36BE_41DD_4937559661DE_es.png
+Image_D8F14B1B_C1EE_BB52_41D1_D60800E33FB8.url = skin/Image_D8F14B1B_C1EE_BB52_41D1_D60800E33FB8_es.png
+Image_D942BFAB_C1EA_DB73_41D9_54513300D9DA.url = skin/Image_D942BFAB_C1EA_DB73_41D9_54513300D9DA_es.png
+Image_D9DCB738_C1AA_AB5E_41D7_6A22B689B6C9.url = skin/Image_D9DCB738_C1AA_AB5E_41D7_6A22B689B6C9_es.png
+Image_DB59099E_C1E9_6755_41E7_F628654B5464.url = skin/Image_DB59099E_C1E9_6755_41E7_F628654B5464_es.png
+Image_DD679113_C19F_A753_41C4_EAAD3334022A.url = skin/Image_DD679113_C19F_A753_41C4_EAAD3334022A_es.png
+Image_E18D6CC8_C1AE_BD3E_41A1_FD5806EDE9A9.url = skin/Image_E18D6CC8_C1AE_BD3E_41A1_FD5806EDE9A9_es.png
+Image_E18DECC8_C1AE_BD3F_41E7_7B5E74CCAB10.url = skin/Image_E18DECC8_C1AE_BD3F_41E7_7B5E74CCAB10_es.png
+Image_E18DFCC9_C1AE_BD3E_41DF_9B3EC6225BDD.url = skin/Image_E18DFCC9_C1AE_BD3E_41DF_9B3EC6225BDD_es.png
+Image_E1F2DCC6_C1AE_BD32_41C5_65DF5D77340E.url = skin/Image_E1F2DCC6_C1AE_BD32_41C5_65DF5D77340E_es.png
+Image_EB1E32A0_C16F_A56E_41E0_11B5DC3C2DF8.url = skin/Image_EB1E32A0_C16F_A56E_41E0_11B5DC3C2DF8_es.png
+Image_ED2F201A_C299_655D_41DD_D40951AEAE45.url = skin/Image_ED2F201A_C299_655D_41DD_D40951AEAE45_es.png
+Image_ED30A02C_C299_6576_41DE_5F83A279B207.url = skin/Image_ED30A02C_C299_6576_41DE_5F83A279B207_es.png
+Image_ED31A021_C299_656E_41E2_2468CE68FC23.url = skin/Image_ED31A021_C299_656E_41E2_2468CE68FC23_es.png
+Image_ED31D023_C299_6572_41D2_EE260DEB012D.url = skin/Image_ED31D023_C299_6572_41D2_EE260DEB012D_es.png
+Image_EFE0B267_C299_65F2_41E2_1CF5A2F9AA54.url = skin/Image_EFE0B267_C299_65F2_41E2_1CF5A2F9AA54_es.png
+Image_EFE2E269_C299_65FE_41CD_B5DDBF85E913.url = skin/Image_EFE2E269_C299_65FE_41CD_B5DDBF85E913_es.png
+Image_EFE3B267_C299_65F2_41E5_4256A2AD647E.url = skin/Image_EFE3B267_C299_65F2_41E5_4256A2AD647E_es.png
+Image_EFE55265_C299_65F6_41E0_D9899565AA6C.url = skin/Image_EFE55265_C299_65F6_41E0_D9899565AA6C_es.png
+Image_F124CE55_C2B6_BDD7_41E3_AE4C8905EA4F.url = skin/Image_F124CE55_C2B6_BDD7_41E3_AE4C8905EA4F_es.png
+Image_F124DE54_C2B6_BDD5_41E7_85DE84016374.url = skin/Image_F124DE54_C2B6_BDD5_41E7_85DE84016374_es.png
+Image_F1252E56_C2B6_BDD2_41D3_0714FEAE78F5.url = skin/Image_F1252E56_C2B6_BDD2_41D3_0714FEAE78F5_es.png
+Image_F13EDE53_C2B6_BDD3_41E6_82E37467BCEE.url = skin/Image_F13EDE53_C2B6_BDD3_41E6_82E37467BCEE_es.png
+Image_F4431FE2_C2B9_BAED_41D3_C16642C184B1.url = skin/Image_F4431FE2_C2B9_BAED_41D3_C16642C184B1_es.png
+Image_F44D1FE5_C2B9_BAF7_41E5_906F34C9315F.url = skin/Image_F44D1FE5_C2B9_BAF7_41E5_906F34C9315F_es.png
+Image_F44D8FE4_C2B9_BAF5_41E5_B4150685DF47.url = skin/Image_F44D8FE4_C2B9_BAF5_41E5_B4150685DF47_es.png
+Image_F44DEFE3_C2B9_BAF2_41BA_C476B62E7881.url = skin/Image_F44DEFE3_C2B9_BAF2_41BA_C476B62E7881_es.png
+Image_F6764C96_C2B6_FD52_41E1_2BDE598C8F96.url = skin/Image_F6764C96_C2B6_FD52_41E1_2BDE598C8F96_es.png
+Image_F6780C9C_C2B6_FD56_41B3_A731B15C1F2D.url = skin/Image_F6780C9C_C2B6_FD56_41B3_A731B15C1F2D_es.png
+Image_F678CC9D_C2B6_FD56_41E7_24F83655BDEE.url = skin/Image_F678CC9D_C2B6_FD56_41E7_24F83655BDEE_es.png
+Image_F679ECA3_C2B6_FD72_41AF_F6AD5E0BE47E.url = skin/Image_F679ECA3_C2B6_FD72_41AF_F6AD5E0BE47E_es.png
+Image_F6F201A4_C2BA_E776_41E1_F17500572773.url = skin/Image_F6F201A4_C2BA_E776_41E1_F17500572773_es.png
+Image_F6F201A5_C2BA_E776_41CE_79DE4440C6C4.url = skin/Image_F6F201A5_C2BA_E776_41CE_79DE4440C6C4_es.png
+Image_F6F331A7_C2BA_E773_41E5_AB7C28BBEAB2.url = skin/Image_F6F331A7_C2BA_E773_41E5_AB7C28BBEAB2_es.png
+Image_F6F741A3_C2BA_E772_41C3_666BD47E93E2.url = skin/Image_F6F741A3_C2BA_E772_41C3_666BD47E93E2_es.png
+
+### Texto Multilínea
+HTMLText_96BCF890_8E24_2148_41BB_039C98435B52.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_CA5BA9F6_9FF2_3576_41CE_ACDD1E0449D6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">All images presented within this interactive virtual experience are for illustrative purposes only and are intended to provide a visual representation of the proposed project. They are intended to convey the overall design concept and anticipated appearance of the development and should not be interpreted as a guarantee that the completed project will be identical to the images shown.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">The development may be subject to changes resulting from legal, technical, architectural, design, construction, or other considerations that may arise throughout the design and construction process.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Accordingly, prospective purchasers and interested parties should be aware that project features, specifications, layouts, materials, finishes, and other details may be modified as the project progresses.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">All images, architectural renderings, floor plans, virtual tours, and other visual materials presented within this interactive virtual experience are provided solely for illustrative and informational purposes. Their purpose is to communicate the general design intent of the project and provide an indication of the proposed appearance and potential finishes of the buildings, residential units, and common areas.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">The project owner or developer reserves the right to make changes to the design, layout, materials, finishes, colors, specifications, and other project elements as may be necessary or appropriate due to technical, legal, commercial, construction-related, or other considerations. Such changes may be made without prior notice, subject to applicable legal and contractual requirements.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Therefore, none of the images, renderings, floor plans, virtual tours, or other representations presented within this interactive virtual experience shall be construed as a binding offer, contractual commitment, or guarantee that the actual spaces, finishes, furnishings, landscaping, or other elements will be delivered exactly as depicted.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Interested parties are encouraged to refer to the official project documentation, approved plans, and applicable specifications for accurate and up-to-date information regarding the development and its individual properties.</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_83BFC192_9D7E_F9B8_41C8_EF0FAAFA6302.toolTip = Fullscreen
+IconButton_83BF2192_9D7E_F9B8_41CA_A0CC8818FB61.toolTip = Plan
+IconButton_85EC3C0C_9D12_2EA8_41A9_6411F4734CDF.toolTip = Plan
+IconButton_8B296511_9D31_FEB8_418D_715BBA8D4A75.toolTip = Sound
+IconButton_83BCD191_9D7E_F9B8_41AB_F3B7648DBE2B.toolTip = Sound
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = ASC Masterplan
